@@ -1,0 +1,31 @@
+Comment,Designator,Footprint,JLCPCB Part #
+10uF,    C1,Capacitor_SMD:C_0603_1608Metric,C19702
+220pF,"    C6, C7",Capacitor_SMD:C_0603_1608Metric,C1603
+100nF,"    C3, C8, C10, C13, C15",Capacitor_SMD:C_0603_1608Metric,C14663
+470nF,    C11,Capacitor_SMD:C_0603_1608Metric,C1623
+2.2uF,"    C2, C12",Capacitor_SMD:C_0603_1608Metric,C23630
+100pF,"    C9, C18, C19",Capacitor_SMD:C_0603_1608Metric,C14858
+4.7uF,"    C14, C16, C17, C20, C21",Capacitor_SMD:C_0603_1608Metric,C19666
+100uF/6.3V,    C22,Capacitor_SMD:C_1206_3216Metric,C15008
+1uF,"    C4, C5, C23",Capacitor_SMD:C_0603_1608Metric,C15849
+2200uF/16V,    C24,Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm,C697579
+20pF,"    C25, C26",Capacitor_SMD:C_0603_1608Metric,C1648
+GREEN,    D1,LED_THT:LED_D3.0mm,C99761
+RED,    D2,LED_SMD:LED_0603_1608Metric,C2286
+MMZ1608B121CTAH0,"    FB1, FB2, FB3",Inductor_SMD:L_0603_1608Metric,C275436
+USB_B,    J3,Connector_USB:USB_B_OST_USB-B1HSxx_Horizontal,C46393
+PH-00598,    J4,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,C2999447
+100R,"    R1, R2",Resistor_SMD:R_0603_1608Metric,C22775
+150k,    R3,Resistor_SMD:R_0603_1608Metric,C22807
+10k,    R4,Resistor_SMD:R_0603_1608Metric,C25804
+470R,    R6,Resistor_SMD:R_0603_1608Metric,C23179
+100k,    R7,Resistor_SMD:R_0603_1608Metric,C25803
+0R,"    R8, R9",Resistor_SMD:R_0603_1608Metric,C21189
+1.5k,    R10,Resistor_SMD:R_0603_1608Metric,C22843
+22R,"    R11, R12",Resistor_SMD:R_0603_1608Metric,C23345
+330R,"    R13, R14",Resistor_SMD:R_0603_1608Metric,C23138
+TC33X-2-103E,    RV1,Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical,C719176
+PAM8302AAS,    U1,Package_SO:MSOP-8_3x3mm_P0.65mm,C113367
+MAX9814,    U2,Package_DFN_QFN:DFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm,C41714
+CM108AH,    U3,LQFP-48(7x7),C371346
+12MHz,    Y1,Crystal:Crystal_SMD_HC49-SD,C111117
